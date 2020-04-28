@@ -16,6 +16,7 @@ public class SeleniumTest {
 		PropertyFile.readPropertyFile();
 		setDriverProperty();
 		runTest();
+		//test
 		
 	}
 	
